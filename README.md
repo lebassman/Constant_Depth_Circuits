@@ -1,2 +1,2 @@
-# Constant_Depth_Circuits
-Code to generate constant-depth circuits for dynamic simulations of materials on quantum computers
+# Constant Depth Circuits
+Code to generate constant-depth circuits for dynamic simulations of materials on quantum computers.  Included are two python notebooks which demonstrate how to generate constant-depth circuits for simulating the XY model and the transvserse field Ising model.  The notebooks include a step-by-step tutorial for both constant-depth circuits as well as IBM-compiler circuits for simulating quantum quenches of these two models.  If the user has an IBM Quantum Experience account (which can be made free of change), then all the circuits can be executed on IBM's quantum simulator and real quantum processors for comparison.  We recommmend opening the notebooks within Jupyter.
